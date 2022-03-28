@@ -108,7 +108,7 @@ li span {
   flex-grow: 1;
   min-width: 0;
   background: #121212;
-  height: 90%;
+  height: 100%;
   flex-direction: row;
   position: relative;
   display: flex;
